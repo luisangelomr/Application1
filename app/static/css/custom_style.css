@@ -1,0 +1,104 @@
+.big_banner{
+    width: 1000px;
+    height: 700px;
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(https://images.squarespace-cdn.com/content/v1/55ffbe15e4b04e8914439ca4/1464129271957-2PMEER57XXONK9BHGR2B/ke17ZwdGBToddI8pDm48kADrZjnsDpWj6aajgkaxo7t7gQa3H78H3Y0txjaiv_0faShnVfr-ySw9qgw5FxrvM3eu7aSGM7vhNJ74-SnklYJQPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UTGsNsmkgkMx4SaqHadh20uQs6c29GKOJpsH6hvjpq-GZWHBEZTeMd3uyExzHw34nw/Nike+Fitness+Model+-+April+Bleicher);
+    margin: 0px auto;
+    border: none;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+
+
+}
+
+    @import url('https://fonts.googleapis.com/css?family=Montesrrat');
+        body{
+            font-family: 'Montesrrat', sans-serif;
+        }
+
+ body {
+  ;
+}
+
+
+
+
+.image-blur {
+  transition: 1s;
+  filter: brightness(10%);
+}
+
+
+.about_page{
+  width: 1000px;
+  height: 700px;
+  border: none;
+  background-repeat: no-repeat;
+  background-image: url(https://cdn.hipwallpaper.com/i/11/58/1GitCq.jpg);
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    position: relative;
+}
+
+.parrafo{
+  text-align:right;
+  color: whitesmoke;
+  font-family:"Times New Roman", Times, serif;
+  text-shadow: 2px 2px 4px #000000;
+  font-style: italic;
+}
+
+.justdoit{
+  font-size: 100%;
+  color: whitesmoke;
+  font-family:"Times New Roman", Times, serif;
+  text-shadow: 2px 2px 4px #000000;
+
+}
+
+
+.homeph{
+  background-image: url(https://upl.stack.com/wp-content/uploads/2015/12/17010133/Stack-Lunges-outside.jpg);
+  position: center
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  width: 1200px;
+  height: 700px;
+}
+
+
+.Signph{
+  background-image: url(https://images.squarespace-cdn.com/content/v1/55f3144be4b0df69cc084458/1572957148157-F5MNH323GEKSIRAZL2NH/ke17ZwdGBToddI8pDm48kG87Sfbgg29A4BYEDq3OXvgUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcf4OxbJOyh_wHUnyc4kQLQ6SBshRGOku7c30Y_IRDNPta8R2IY5BHMaEj1zOWoDTZ/banner+-+ourfitfamilylife+2.jpg?format=2500w);
+  position: center
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  width: 1200px;
+  height: 700px;
+}
+
+.Loginph{
+  background-image: url(https://townsquare.media/site/523/files/2020/05/RS33284_ThinkstockPhotos-462579091-1.jpg?w=980&q=75);
+  position: center
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  width: 1200px;
+  height: 700px;
+}
+
+.pre{
+  tab-size: 8; /* default. Pretty big! */
+
+  tab-size: 2;
+  tab-size: 13px; /* you can set a width-per-tab also */
+}
